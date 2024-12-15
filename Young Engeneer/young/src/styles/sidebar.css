@@ -1,0 +1,20 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e7fb0;
+    width: 30vw;
+    height: 100vh; 
+    gap:2rem;
+}
+.sidebar-header{
+    margin-bottom: 10vh;
+}
+.sidebar-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 5vh;
+}
